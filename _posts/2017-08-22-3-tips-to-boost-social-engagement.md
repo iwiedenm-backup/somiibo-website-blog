@@ -28,14 +28,7 @@ Likely, most brands will focus on one Social Media Network but it is important t
 [Somiio](https://somiibo.com) helps you automate your activity on social media. Somiibo leaves you in charge of being the creator and takes care of the interaction and marketing apsects that truly spread the word about your brand. Somiibo works with a variety of platforms, so you never have to worry about leaving out a site that may end up really solidifying your presence online.
 
 
-## 3. Quality of Quantity
+## 3. Quality over Quantity
+This age old saying could not be more true for boosting your social media presence. You will certainly lose followers if your content becomes increasingly less relevant to your precious fans. How, then, do you ensure your posts are full of quality content? 
 
-
-
-
-
-
-
-
-
-
+First, never post just to simply... post. It's far better to post late than to regurgitate something irrelevant or poorly made. Somiibo can help you take advantage of filling in these gaps by interacting with your followers and driving your posts to a wider audience.
