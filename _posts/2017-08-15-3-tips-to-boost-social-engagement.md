@@ -8,7 +8,6 @@ comments: true
 author: "Somiibo"
 img_teaser: "/assets/img/post/blog-4.jpg"
 img_header: "/assets/img/post/blog-1.jpg"
-postlink:   "3-tips-to-boost-social-engagement"
 ---
 
 
