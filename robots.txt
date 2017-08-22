@@ -1,8 +1,10 @@
 # Allow crawling of all content
 User-agent: *
-Disallow: /old/
-Noindex: /old/
 Disallow: /projects/
 Noindex: /projects/
 Disallow: /about/
 Noindex: /about/
+Disallow: /tags/
+Noindex: /tags/
+Disallow: /old/
+Noindex: /old/
