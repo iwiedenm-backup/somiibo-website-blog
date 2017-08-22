@@ -4,12 +4,15 @@ title:  "Markdown Syntax"
 date:   2016-03-15
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
-- markdown 
+- markdown
 - syntax
 - sample
 - test
 - jekyll
 comments: true
+author: "test author"
+img_teaser: "/assets/img/post/blog-4.jpg"
+img_header: "/assets/img/post/blog-1.jpg"
 ---
 
 ## HTML Elements
